@@ -1,0 +1,10 @@
+'''
+write a program to check whether the given chracter is vowel or consonant 
+'''
+a=input()
+if(a=='a' or a=='e' or a=='i' or a=='o' or a=='u')
+print('vowel')
+elif(a>'a' and 'a'<a);
+print('consonant')
+else:
+print('Not an alphabet')
